@@ -1,0 +1,6 @@
+id=fusermount-bin
+name=fusermount binary
+version=v1
+versionCode=1
+author=mirsella
+description=install fusermount binary to /system/bin
